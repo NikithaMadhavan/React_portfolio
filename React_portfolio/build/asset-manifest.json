@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.497e888e.css",
+    "main.js": "/static/js/main.d9121598.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tindog.png": "/static/media/tindog.47b016efcd487e3acbd8.png",
+    "static/media/drumkit.png": "/static/media/drumkit.62135ca30ff608b89fd5.png",
+    "static/media/resume.jpg": "/static/media/resume.519a5324a2b3f1d21593.jpg",
+    "static/media/bg.jpg": "/static/media/bg.913f39df1affeb8c0892.jpg",
+    "static/media/profile1.jpg": "/static/media/profile1.304bba498ad5eafc36ee.jpg",
+    "static/media/todolist.png": "/static/media/todolist.ee0147388ce61ecb337a.png",
+    "static/media/signup.png": "/static/media/signup.38abbb5956779590ab65.png",
+    "static/media/cancer.jpeg": "/static/media/cancer.874d07926e481e97cae3.jpeg",
+    "static/media/image.jpeg": "/static/media/image.9305b4937c4991bc2f74.jpeg",
+    "index.html": "/index.html",
+    "main.497e888e.css.map": "/static/css/main.497e888e.css.map",
+    "main.d9121598.js.map": "/static/js/main.d9121598.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497e888e.css",
+    "static/js/main.d9121598.js"
+  ]
+}
